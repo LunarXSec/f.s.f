@@ -1,0 +1,43 @@
+baseURL = 'https://nyx112.dev/'
+languageCode = 'en-us'
+title = 'F.S.F'
+theme = "spectral"
+
+
+[params]
+fancyTitle = "THE F.S.F" # title for frontpage, may include image
+copyright = "hi"
+description = 'FEDERATION OF SPACE FEMBOYS <br> LED BY <br> SUPREME COMMANDER NYX'
+startbuttonText = "APPLICATIONS"
+startbuttonLink = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D"
+body_is_markdown = true
+
+# [[params.menu.main]]
+# url = '/'
+# title = "Home"
+
+# [[params.menu.main]]
+# url = '/posts/'
+# title = "Posts"
+
+# [taxonomies]
+#     tag = "tags"
+#     category = "categories"
+#     series = "series"
+
+[params.three]
+enable = true
+title = 'What we do'
+body = '''
+other than your bussy
+'''
+
+[[params.three.feature]]
+icon = "fa-swords"
+title = "DESTROY"
+body = "we don't like people, so we get rid of them"
+
+[[params.three.feature]]
+icon = "fa-swords"
+title = "idk"
+body = "idk why I am making this, i was just bored. the website is probably gonna change"
